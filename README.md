@@ -2,16 +2,6 @@
 
 This is a cross platform spreadsheet application I made with HTML, CSS, JavaScript and Electronjs for packaging builds.
 
-## Installation
-
-Download for your operating system
-
-<img src="https://user-images.githubusercontent.com/40262320/119237731-f3b3d880-bb5b-11eb-9349-4a2ebf50a6ee.png" width="150">
-
-<a href="https://drive.google.com/drive/folders/1zxbZsI5DE1y14Fi3ouqAQ9dQvODFMdBb?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/40262320/119237840-9c623800-bb5c-11eb-8f99-271b0f78a44c.png" width="150"></a>
-
-<a href="https://drive.google.com/drive/folders/18f81F2m4aDxcUgwGsneml0c_nQiGyskX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/40262320/119237951-46da5b00-bb5d-11eb-812c-1d758421545d.png" width="100"></a>
-
 ## Features
 1. Formatting - Bold, Italic, Underline, Strikethrough, fonts family, font size and alignment.
 2. Formula - Can create functions for cell, cycle detection is implemented.
@@ -29,6 +19,3 @@ Download for your operating system
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
